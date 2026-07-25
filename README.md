@@ -1,4 +1,4 @@
-<img src="images/svg/BG_IMG.JPEG"></img>
+
 
 <div align="right">
   <a href="https://github.com/abdelrahmansaberr-1/abdelrahmansaberr-1/blob/main/README.md">
@@ -9,6 +9,9 @@
     <img src="images/eg-flag.png" height="13"> العربية
   </a>
 </div>
+
+<img src="images/svg/BG_IMG.JPEG"></img>
+
 :space_invader: &nbsp;About Me
 
 &nbsp;&nbsp;&nbsp; :technologist: &nbsp;AI Engineering undergraduate & Content Creator with a strong background in C++, Python, and algorithmic problem-solving. \
