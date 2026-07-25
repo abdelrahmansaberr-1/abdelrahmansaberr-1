@@ -8,19 +8,20 @@
   </a>
 </div>
 
-<h2>Hi there! <img src="wave.gif" width="35"> Welcome to my profile!</h2>
-
 <img src="images/svg/BG_IMG.JPEG"></img>
 
 :space_invader: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp; :technologist: &nbsp;AI Engineering undergraduate & Content Creator with a strong background in C++, Python, and algorithmic problem-solving. \
+&nbsp;&nbsp;&nbsp; :technologist: &nbsp;AI Engineering undergraduate with a strong background in C++, Python, and algorithmic problem-solving. \
 &nbsp;&nbsp;&nbsp; :seedling: &nbsp;Currently deepening my expertise in Machine Learning, Deep Learning, Computer Vision, and NLP.\
 &nbsp;&nbsp;&nbsp; :heartbeat: &nbsp;Passionate about AI For Business, Tech-Driven Business, and Data Science.\
 &nbsp;&nbsp;&nbsp; :writing_hand: &nbsp;Experienced in balancing academics with part-time work, leadership initiatives, and competitive sports.\
 &nbsp;&nbsp;&nbsp; :hammer_and_wrench: &nbsp;A proactive learner driven to grow technically and contribute to academic and student communities.\
 &nbsp;&nbsp;&nbsp; :rocket: &nbsp;AI Engineer | Data Scientist | Machine Learning & NLP.
-
+<br>
+<p align="center">
+  <b>🌟 Always open to collaborating on innovative AI projects or discussing tech. Let's build something awesome together!</b>
+</p>
 <p align="center">
   <a href="mailto:abdelrahmanmohamedsaberr@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/abdelrahman-saber-2913863b6"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -77,20 +78,7 @@
 
 </details>
 
-<details>
-  <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
-  <br/>
-    <p align="center">
-        <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrahmansaberr-1&hide_border=true&theme=nightowl" />
-    </p>
-    <p align="center">
-        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=abdelrahmansaberr-1&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrahmansaberr-1&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
-    </p>
-</details>
 
 <hr/>
 
-<p align="right">
-<img src="https://komarev.com/ghpvc/?username=abdelrahmansaberr-1&style=plastic&label=Views"><img>
-<img src="https://badges.pufler.dev/visits/abdelrahmansaberr-1/abdelrahmansaberr-1?color=black&logo=github" />
-</p>
+
