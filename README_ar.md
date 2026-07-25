@@ -1,6 +1,6 @@
-<img src="images/svg/BG_IMG.JPEG"></img>
 
-<div align="left">
+
+<div align="right">
   <a href="https://github.com/abdelrahmansaberr-1/abdelrahmansaberr-1/blob/main/README.md">
     <img src="images/us-flag.png" height="13"> English
   </a>
@@ -9,6 +9,9 @@
     <img src="images/eg-flag.png" height="13"> العربية
   </a>
 </div>
+
+
+<img src="images/svg/BG_IMG.JPEG"></img>
 
 ### :space_invader: &nbsp;نبذة عني
 
