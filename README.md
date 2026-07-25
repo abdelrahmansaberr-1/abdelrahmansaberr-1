@@ -81,4 +81,7 @@
 
 <hr/>
 
-
+<p align="right">
+<img src="https://komarev.com/ghpvc/?username=abdelrahmansaberr-1&style=plastic&label=Views"><img>
+<img src="https://badges.pufler.dev/visits/abdelrahmansaberr-1/abdelrahmansaberr-1?color=black&logo=github" />
+</p>
