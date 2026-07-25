@@ -1,9 +1,14 @@
 <img src="images/svg/BG_IMG.JPEG"></img>
 
-<table align="right">
- <tr><td><a href="https://github.com/abdelrahmansaberr-1/abdelrahmansaberr-1/blob/main/README.md"><img src="images/us-flag.png" height="13"> English</a></td></tr>
- <tr><td><a href="https://github.com/abdelrahmansaberr-1/abdelrahmansaberr-1/blob/main/README_ar.md"><img src="images/eg-flag.png" height="13"> العربية</a></td></tr>
-</table>
+<div align="right">
+  <a href="https://github.com/abdelrahmansaberr-1/abdelrahmansaberr-1/blob/main/README.md">
+    <img src="images/us-flag.png" height="13"> English
+  </a>
+  <br>
+  <a href="https://github.com/abdelrahmansaberr-1/abdelrahmansaberr-1/blob/main/README_ar.md">
+    <img src="images/eg-flag.png" height="13"> العربية
+  </a>
+</div>
 ### :space_invader: &nbsp;About Me
 
 &nbsp;&nbsp;&nbsp; :technologist: &nbsp;AI Engineering undergraduate & Content Creator with a strong background in C++, Python, and algorithmic problem-solving. \
