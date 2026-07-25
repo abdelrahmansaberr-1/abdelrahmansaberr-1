@@ -1,9 +1,8 @@
 <img src="images/svg/BG_IMG.JPEG"></img>
 
-<table align="right">
- <tr><td><a href="README.md"><img src="images/us-flag.png" height="13"> English</a></td></tr>
- <tr><td><a href="README_fr.md"><img src="images/fr-flag.png" height="13"> Français</a></td></tr>
- <tr><td><a href="README_ar.md"><img src="images/eg-flag.png" height="13"> العربية</a></td></tr>
+<table align="left">
+ <tr><td><a href="https://github.com/abdelrahmansaberr-1/abdelrahmansaberr-1/blob/main/README.md"><img src="images/us-flag.png" height="13"> English</a></td></tr>
+ <tr><td><a href="https://github.com/abdelrahmansaberr-1/abdelrahmansaberr-1/blob/main/README_ar.md"><img src="images/eg-flag.png" height="13"> العربية</a></td></tr>
 </table>
 
 ### :space_invader: &nbsp;نبذة عني
