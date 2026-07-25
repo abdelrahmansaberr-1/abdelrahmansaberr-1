@@ -9,7 +9,7 @@
     <img src="images/eg-flag.png" height="13"> العربية
   </a>
 </div>
-### :space_invader: &nbsp;About Me
+:space_invader: &nbsp;About Me
 
 &nbsp;&nbsp;&nbsp; :technologist: &nbsp;AI Engineering undergraduate & Content Creator with a strong background in C++, Python, and algorithmic problem-solving. \
 &nbsp;&nbsp;&nbsp; :seedling: &nbsp;Currently deepening my expertise in Machine Learning, Deep Learning, Computer Vision, and NLP.\
