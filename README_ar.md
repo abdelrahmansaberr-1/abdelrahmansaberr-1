@@ -15,13 +15,16 @@
 
 ### :space_invader: &nbsp;نبذة عني
 
-&nbsp;&nbsp;&nbsp; :technologist: &nbsp;طالب جامعي في تخصص هندسة الذكاء الاصطناعي وصانع محتوى، بخلفية قوية في C++ و Python وحل المشكلات الخوارزمية.\
+&nbsp;&nbsp;&nbsp; :technologist: &nbsp;طالب جامعي في كلية الهندسة تخصص الذكاء الاصطناعي، بخلفية قوية في C++ و Python وحل المشكلات .\
 &nbsp;&nbsp;&nbsp; :seedling: &nbsp;أعمل حالياً على تعميق خبرتي في تعلم الآلة (Machine Learning)، التعلم العميق (Deep Learning)، الرؤية الحاسوبية (Computer Vision)، ومعالجة اللغات الطبيعية (NLP).\
 &nbsp;&nbsp;&nbsp; :heartbeat: &nbsp;شغوف بتطبيقات الذكاء الاصطناعي في الأعمال (AI For Business)، والأعمال المعتمدة على التكنولوجيا، وعلوم البيانات.\
 &nbsp;&nbsp;&nbsp; :writing_hand: &nbsp;لدي خبرة في الموازنة بين دراستي الأكاديمية والعمل بدوام جزئي، بالإضافة إلى المبادرات القيادية والرياضات التنافسية.\
 &nbsp;&nbsp;&nbsp; :hammer_and_wrench: &nbsp;دائم التعلم وأسعى لتطوير مهاراتي التقنية والمساهمة في المجتمع الأكاديمي والطلابي.\
 &nbsp;&nbsp;&nbsp; :rocket: &nbsp;مهندس ذكاء اصطناعي | عالم بيانات | تعلم الآلة ومعالجة اللغات الطبيعية.
-
+<br>
+<p align="center">
+  <b>🌟 مرحب دائماً بالتعاون في مشاريع الذكاء الاصطناعي المبتكرة أو النقاشات التقنية. دعنا نبني شيئاً رائعاً معاً!</b>
+</p>
 <p align="center">
   <a href="mailto:abdelrahmanmohamedsaberr@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/abdelrahman-saber-2913863b6"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -76,17 +79,6 @@
 ![AI Tools](https://img.shields.io/badge/AI_TOOLS-6DB33F.svg?&style=flat&logoColor=white)&nbsp;
 ![Claude](https://img.shields.io/badge/CLAUDE-777BB4.svg?&style=flat&logoColor=white)&nbsp;
 
-</details>
-
-<details>
-  <summary><b>:gear: &nbsp;إحصائيات GitHub</b></summary>
-  <br/>
-    <p align="center">
-        <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrahmansaberr-1&hide_border=true&theme=nightowl" />
-    </p>
-    <p align="center">
-        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=abdelrahmansaberr-1&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrahmansaberr-1&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
-    </p>
 </details>
 
 <hr/>
