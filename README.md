@@ -1,5 +1,3 @@
-
-
 <div align="right">
   <a href="https://github.com/abdelrahmansaberr-1/abdelrahmansaberr-1/blob/main/README.md">
     <img src="images/us-flag.png" height="13"> English
@@ -9,6 +7,8 @@
     <img src="images/eg-flag.png" height="13"> العربية
   </a>
 </div>
+
+<h2>Hi there! <img src="wave.gif" width="35"> Welcome to my profile!</h2>
 
 <img src="images/svg/BG_IMG.JPEG"></img>
 
